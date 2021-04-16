@@ -21,4 +21,9 @@ body {
 
 .marca {
     font-family: 'Lobster Two', cursive;
-    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.navbar {
+    color: aqua;
+}
